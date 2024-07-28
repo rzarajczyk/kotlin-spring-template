@@ -4,4 +4,4 @@
 
  - Defined Repository secrets:
    - `DOCKERHUB_USERNAME`
-   - `DOCKERHUB_PASSWORD`
+   - `DOCKERHUB_TOKEN`
