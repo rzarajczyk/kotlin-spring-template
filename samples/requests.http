@@ -1,0 +1,5 @@
+### ping
+GET localhost:8080/ping
+
+### actuator
+GET localhost:8080/actuator
